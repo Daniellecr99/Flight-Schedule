@@ -1,0 +1,12 @@
+caption {
+    font-size: 45px;
+}
+td, th {border: 2px solid black;
+    font-size: 30px;
+    background-color: cornsilk;
+}
+table {margin: 0 auto;
+margin-top: 30px;}
+body {text-align: center; 
+background-image: url(featured.jpg);
+background-size: cover;}
